@@ -1,5 +1,13 @@
 # Seoul_apt_prediction
 
+프로젝틑명: 서울특별시 아파트 가격 예측
+
+프로젝트 수행 기간: 2023.04.02 - 2023.06.09
+
+팀원 및 역할
+강명구: 팀장(프로젝트 총괄, 공시지가 & 평형 정보 등 아파트 관련 데이터 수집, DNN 수행)
+백한영: 팀원(지하철역 & 버스정류장 등 편의시설 관련 데이터 수집, 데이터 병합 및 전처리, 데이터 검증, Random Forest, Multiple Linear Regression 수행) 
+송우민: 팀원(KOSPI 등 경제지표 관련 데이터 수집, LDA, QDA, Gradient Boosting 수행)
 
 ## I. 연구 내용
 
