@@ -148,7 +148,7 @@
 
 다중 선형 회귀, Random Forest, Gradient Boosting 등 본 데이터마이닝 강의에서 학습한 모델로도 예측하였으며, 별도로 DNN을 활용하여 예측도 진행해 보았고 그 결과를 간단히 정리하면 다음과 같다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b43f636e-9f2b-4475-b9e5-0e8d47394deb/Untitled.png)
+
 
 RMSE와 MSE를 기준으로 보았을 때 DNN, Random Forest가 상대적으로 좋은 성능을 보였다.
 
