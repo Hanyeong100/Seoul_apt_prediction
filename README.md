@@ -1,7 +1,7 @@
 # Seoul_apt_prediction
 
 
-## I - 2. 연구 내용
+## I. 연구 내용
 
 ### 아파트 특성 분석
 
